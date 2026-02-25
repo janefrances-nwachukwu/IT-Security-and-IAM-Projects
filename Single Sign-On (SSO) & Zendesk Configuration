@@ -1,0 +1,9 @@
+Project Topic: Single Sign-On (SSO) & Zendesk Configuration
+Project agenda: To establish single sign-on (SSO) functionality between Auth0 and Zendesk, enabling seamless and secure user authentication.
+Description: As a systems administrator at DynamicWeb Inc., I was tasked with implementing a secure and efficient single sign-on (SSO) system using Auth0 and Zendesk. The goal is to streamline authentication for support agents and end-users, enhancing security and user experience. This project involved configuring both Auth0 and Zendesk to support various authentication methods, including social logins, and ensuring a seamless login process through SSO, thereby improving operational efficiency and data security.
+Steps I followed:
+1.Created an account in Auth0
+2.Created an account on Zendesk
+3.Configured SSO in the Auth0 application
+4.Logged in using SSO
+Tools Used: Windows VM
